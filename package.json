@@ -1,19 +1,22 @@
 {
-  "name": "utils.js",
+  "name": "@w2xi/utils.js",
   "version": "0.0.1",
-  "description": "Utils for working with you.",
-  "main": "index.js",
+  "description": "Helper functions",
+  "main": "./index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Utils"
+    "utils", "helper"
   ],
   "homepage": "https://github.com/w2xi/utils.js",
   "bugs": {
     "url": "https://github.com/w2xi/utils.js/issues",
     "email": "2834182473@qq.com"
   },
-  "author": "w2xi",
+  "author": {
+    "name": "w2xi"
+  },
   "license": "MIT"
 }
