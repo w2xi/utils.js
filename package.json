@@ -1,0 +1,19 @@
+{
+  "name": "utils.js",
+  "version": "0.0.1",
+  "description": "Utils for working with you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Utils"
+  ],
+  "homepage": "https://github.com/w2xi/utils.js",
+  "bugs": {
+    "url": "https://github.com/w2xi/utils.js/issues",
+    "email": "2834182473@qq.com"
+  },
+  "author": "w2xi",
+  "license": "MIT"
+}
