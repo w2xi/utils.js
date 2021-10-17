@@ -1,6 +1,6 @@
 {
   "name": "@w2xi/utils.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper functions",
   "main": "./index.js",
   "private": false,
@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "utils", "helper"
+    "utils",
+    "helper"
   ],
   "homepage": "https://github.com/w2xi/utils.js",
   "bugs": {
